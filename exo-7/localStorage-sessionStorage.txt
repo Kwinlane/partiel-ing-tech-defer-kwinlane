@@ -1,0 +1,2 @@
+Le localStorage tout comme le sessionStorage sont des bdd stockées dans le navigateur sous forme de chaîne de caractères (des paires clé/valeur).
+La différence entre les deux est que les données du localStorage vont subsister, et ce même lorsque que la session navigateur sera fermée, tandis qu'avec le sessionStorage, le stockage s'arrète dès lors que la fenêtre du navigateur n'est plus active.
