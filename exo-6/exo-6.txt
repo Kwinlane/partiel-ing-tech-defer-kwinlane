@@ -1,0 +1,1 @@
+Le backend est la partie invisible du code. Il correspond à la partie de dev qui va gérer les données et faire le lien avec le serveur et la base de données suivant les requêtes client. Il est aussi responsable de tout ce qui authentification, sécurité, token, etc ... Le back assure le bon fonctionnement d'une application.
